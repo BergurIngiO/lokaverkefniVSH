@@ -3,7 +3,7 @@
     background-image: url("http://wallpapercave.com/wp/KJsc8Bj.jpg");
 
     /* Set a specific height */
-    height: 420px; 
+    height: 400px; 
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -30,4 +30,22 @@ html{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.txtNr1{
+    font-size: 30px;
+}
+
+.txtNr1H1{
+    font-size: 50px;
+    text-shadow: 2px 1px white;
+}
+
+.txtNr2H1{
+    font-size: 50px;
+    text-shadow: 2px 1px white;
+}
+
+.txtNr2{
+    font-size: 30px;
 }
